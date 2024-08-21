@@ -1,6 +1,6 @@
 # 🕹️ **Microprocessor-Based Multiplayer Game & Chat System**
 
-Welcome to the **Multiplayer Processor Simulation Game** – an immersive, assembly-language project that connects two PCs via serial communication for interactive gameplay and real-time chat functionality. This C++ and Assembly project brings a unique twist to microprocessor systems, blending digital logic, communication, and gaming.
+Welcome to the **Multiplayer Processor Simulation Game** – an immersive, assembly-language project that connects two PCs via serial communication for interactive gameplay and real-time chat functionality. This Assembly project brings a unique twist to microprocessor systems, blending digital logic, communication, and gaming.
 
 ## 🔑 **Core Features**
 
