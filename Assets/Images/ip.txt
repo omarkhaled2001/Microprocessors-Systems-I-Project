@@ -1,0 +1,11 @@
+1)get array of pixcels from whole 320 *200 and store it
+2)code loop on array of pixcels and print it with pixcel draw interrupt
+3)get mouse click position.
+4)command validation
+5)print command  
+6)excute command 
+7)send & receieve code
+8)chatting code
+9)powers up handdle 
+10)hunt bird code 
+11)other screens
