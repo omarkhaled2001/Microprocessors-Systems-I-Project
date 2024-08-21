@@ -72,7 +72,8 @@ This assembly-language project is organized into key functional modules, ensurin
 
 ## 💥 **Screenshots**
 
-![Main Menu Game Screenshot](./Assets/Images/Screenshot 2022-01-03 214105.png)
+![Main Menu Game Screenshot](./Assets/Images/menu_screenshot.png)
+
 
 
 ---
