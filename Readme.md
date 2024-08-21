@@ -61,7 +61,7 @@ This assembly-language project is organized into key functional modules, ensurin
 
 1. **Clone the Repository**: 
    ```bash
-   git clone <repo-link>
+   git clone [<repo-link>](https://github.com/omarkhaled2001/Microprocessors-Systems-I-Project.git)
    ```
 2. **Compile the Code**: Use an x86 assembler like MASM or TASM to compile the assembly code.
 3. **Run the Executable**: Run the generated executable on two connected PCs with serial communication enabled.
