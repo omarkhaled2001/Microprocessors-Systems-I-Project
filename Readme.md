@@ -1,6 +1,6 @@
 # 🕹️ **Microprocessor-Based Multiplayer Game & Chat System**
 
-Welcome to the **Multiplayer Processor Simulation Game** – an immersive, assembly-language project that connects two PCs via serial communication for interactive gameplay and real-time chat functionality. This C++ and Assembly project brings a unique twist to microprocessor systems, blending digital logic, communication, and gaming.
+Welcome to the **Multiplayer Processor Simulation Game** – an immersive, assembly-language project that connects two PCs via serial communication for interactive gameplay and real-time chat functionality. This Assembly project brings a unique twist to microprocessor systems, blending digital logic, communication, and gaming.
 
 ## 🔑 **Core Features**
 
@@ -61,7 +61,7 @@ This assembly-language project is organized into key functional modules, ensurin
 
 1. **Clone the Repository**: 
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/omarkhaled2001/Microprocessors-Systems-I-Project.git
    ```
 2. **Compile the Code**: Use an x86 assembler like MASM or TASM to compile the assembly code.
 3. **Run the Executable**: Run the generated executable on two connected PCs with serial communication enabled.
